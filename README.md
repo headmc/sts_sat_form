@@ -4,4 +4,4 @@ The Stave & Thief Society is a forward-facing spirits education program, based i
 
 This project is a requirement for my Code Louisville cohort, and also an experiment in form making.
 
-It is a submission form for distillery representatives wanting to host the Stave & Thief Society Executive Bourbon Steaward program in their establishment, and the database that holds said submissions.
+It is a submission form for distillery representatives wanting to host the Stave & Thief Society Executive Bourbon Steward program in their establishment, and the database that holds said submissions.
